@@ -22,7 +22,7 @@ npm install byteof
 ## usage
 
 ```js
-const byteof=require("../index")
+const byteof=require('byteof')
 const object={
     "n":1,
     "b":true,
