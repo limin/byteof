@@ -1,6 +1,6 @@
 {
   "name": "byteof",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A function to calculate the approximate memory usage of javascript object in bytes.",
   "main": "index.js",
   "author": {
