@@ -1,0 +1,17 @@
+{
+  "name": "byteof",
+  "version": "0.1.0",
+  "description": "A function to calculate the approximate memory usage of javascript object in bytes.",
+  "main": "index.js",
+  "author": "Min Li",
+  "license": "Apache 2.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "jest --verbose --runInBand",
+    "jsdoc": "jsdoc index.js BYTES.js"    
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jsdoc": "^3.5.5"
+  }
+}
