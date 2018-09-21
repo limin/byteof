@@ -3,7 +3,13 @@
   "version": "0.1.0",
   "description": "A function to calculate the approximate memory usage of javascript object in bytes.",
   "main": "index.js",
-  "author": "Min Li",
+  "author": {
+    "name": "Min Li",
+    "email": "limin9@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/limin/byteof/issues"
+  },  
   "license": "Apache 2.0",
   "dependencies": {},
   "scripts": {
@@ -13,5 +19,10 @@
   "devDependencies": {
     "jest": "^23.6.0",
     "jsdoc": "^3.5.5"
+  },
+  "homepage": "https://github.com/limin/byteof",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limin/byteof.git"
   }
 }
