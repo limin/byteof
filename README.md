@@ -31,7 +31,7 @@ const object={
 const totalBytes=byteof(object)
 ```
 
-### Contributing
+### contributing
 
 * Fork it!
 * Create your feature branch: `git checkout -b my-new-feature`
@@ -40,7 +40,7 @@ const totalBytes=byteof(object)
 * Submit a pull request
 
 
-### License
+### license
 
 Copyright (c) 2018 Min Li
 
